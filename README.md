@@ -11,4 +11,5 @@ Instalacion y configuración de entorno de desarrollo
 
 ## Funcionamiento
 
-![](img/carro.jpg)
+![](img/Messi.avif
+)
